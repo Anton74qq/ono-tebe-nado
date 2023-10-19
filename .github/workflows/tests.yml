@@ -32,3 +32,5 @@ jobs:
         path: tests-selfmade-project-2-public/output.jpg
     - name: Show test results
       run: bash tests-selfmade-project-2-public/result.sh
+
+      
